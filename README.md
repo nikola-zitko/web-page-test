@@ -1,2 +1,1 @@
-# web-page-test
-Practicing HTML and CSS
+![title.png](https://github.com/nikola-zitko/web-page-test/blob/master/Assets/title.png)
